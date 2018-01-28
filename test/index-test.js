@@ -1,4 +1,4 @@
-describe('Rock Dodger', () => {
+earndescribe('Rock Dodger', () => {
   afterEach(function() {
     expect.restoreSpies()
   })
